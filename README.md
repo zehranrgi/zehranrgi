@@ -33,7 +33,7 @@ I love following articles, books, news and documentaries on DL&ML.👩‍💻
 [<img align="left" alt="PyTorch" width="30px" src="https://user-images.githubusercontent.com/54184905/79643126-1251de00-81aa-11ea-9718-fd829777e4d6.jpeg" />][pt]
 [<img align="left" alt="R" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][r]
 [<img align="left" alt="Jupyter" width="30px" src="https://upload.wikimedia.org//wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />][jupy]
-[<img align="left" alt="C#" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" />][csharp]
+
 <br />
 
 [vsCode]: https://code.visualstudio.com/
@@ -45,7 +45,6 @@ I love following articles, books, news and documentaries on DL&ML.👩‍💻
 [r]: https://www.r-project.org/
 [ub]: www.ubuntu.com/
 [jupy]: https://jupyter.org/
-[csharp]: https://docs.microsoft.com/tr-tr/dotnet/csharp/
 
 <br />
 <br />
