@@ -1,7 +1,4 @@
-### Hi there 👋
 
-
-**zehranrgi/zehranrgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hi there, this is Zehra N. Günindi. 🙋
 
 I love following articles, books, news and documentaries on DL&ML.👩‍💻
