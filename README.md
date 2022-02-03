@@ -2,7 +2,7 @@
 # Hi there, this is Zehra N. Günindi. 🙋
 
 I love following articles, books, news and documentaries on DL&ML.👩‍💻
-- 🔭 I’m currently working on GAN.
+- 🔭 I’m currently working on Semantic segmentation.
 
 
 ### 📩 Connect with me:
