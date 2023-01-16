@@ -58,7 +58,7 @@ I love following articles, books, news and documentaries on DL&ML.👩‍💻
 <br />
 
 
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zehranrgi&show_icons=true&locale=en&layout=compact&langs_count=108&theme=nightowl" alt="mukireus"/>
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zehranrgi&show_icons=true&locale=en&layout=compact&langs_count=10&theme=nightowl" alt="mukireus"/>
 
 
 <br />
