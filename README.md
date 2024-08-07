@@ -13,7 +13,7 @@ I love following articles, books, news and documentaries on DL&ML.👩‍💻
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/zehra-nur-g%C3%BCnindi/
+[linkedin]: https://www.linkedin.com/in/zehranrgi/
 [medium]: https://zehranrgi.medium.com/
 [kaggle]: https://www.kaggle.com/zehranrgi/
 
