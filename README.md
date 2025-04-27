@@ -1,5 +1,5 @@
 
-# Hi there, this is Zehra N. Günindi. 🙋‍♀
+# Hi there, this is Zehra N. Gunindi. 🙋‍♀
 
 I love following articles, books, news and documentaries on DL&ML.👩‍💻
 
