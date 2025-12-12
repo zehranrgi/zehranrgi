@@ -54,13 +54,7 @@ I love following articles, books, news and documentaries on DL&ML.👩‍💻
 [DL2]: https://www.kaggle.com/zehranrgi/deep-learning-summary-2
 [csh]: https://medium.com/p/b575f3c26dfe
 
-<br />
 
-
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zehranrgi&show_icons=true&locale=en&layout=compact&langs_count=10&theme=nightowl" alt="mukireus"/>
-
-
-<br />
 
 
 
